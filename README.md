@@ -1,4 +1,6 @@
-Hassan Sodick 📊🔍 Civil Engineer | 🧠💻 Data Scientist 👋 Hi there! I'm a passionate data professional with expertise in data analysis and data science. I specialize in turning complex datasets into actionable insights and solutions.
+Hassan Sodick
+📊🔍 Civil Engineer | 🧠💻 Data Scientist 👋
+Hi there! I'm a passionate data professional with expertise in data analysis and data science. I specialize in turning complex datasets into actionable insights and solutions.
 📊 Data Analyst: I leverage powerful tools like Power BI and Tableau to analyze and visualize data, empowering stakeholders to make informed decisions confidently.
 🧠💻 Data Scientist: I dive into algorithms, statistical modeling, and predictive analytics to explore data, build models, and solve complex business problems. Proficient in Python and SQL.
 🔬 With a strong analytical mindset, attention to detail, and a passion for continuous learning, I deliver valuable insights and drive data-informed decision-making. I excel at communicating complex technical concepts to diverse audiences.
